@@ -1,3 +1,9 @@
+## Archival notice
+
+This repository is kept for **historical / posterity** purposes only. It is **not maintained**, not security-audited, and **not intended for production use**.
+
+---
+
 # Sonos
 
 Control [Sonos](https://refer.sonos.com/raf/invite?code=k8k8mq9hg) speakers with Ruby.
